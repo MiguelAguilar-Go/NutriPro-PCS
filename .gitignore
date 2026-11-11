@@ -1,0 +1,9 @@
+build/
+dist/
+target/
+*.class
+
+nbproject/private/
+.vscode/
+
+**/database.properties
